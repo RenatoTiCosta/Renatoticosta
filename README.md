@@ -9,7 +9,7 @@
 
 <div align="center"> 
 
- ### Habilidades principais:
+ ### Habilidades:
  
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -37,11 +37,7 @@
 
 <div align="center"> 
 
-### Estudando:
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Cobol](https://img.shields.io/badge/-Cobol-0D1117?style=for-the-badge&logo=COBOL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Inglês](https://img.shields.io/badge/-Inglês-0D1117?style=for-the-badge&logo=Inglês&labelColor=0D1117)&nbsp;
- </div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
